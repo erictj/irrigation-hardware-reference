@@ -1,0 +1,10 @@
+----------------
+- v0.1
+- Pinoccio Team
+- Jonathan Giles
+- Jay Graves
+- Magnus Stam
+- 2013-03-07
+----------------
+Initial release
+----------------
